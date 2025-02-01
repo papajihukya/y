@@ -162,4 +162,4 @@ if __name__ == "__main__":
         except Exception as e:
             logging.error(f"Polling error: {e}")
             time.sleep(5)gging.error(f"Polling error: {e}")
-            time.sleep(5))
+            time.sleep(5)')'
